@@ -27,7 +27,7 @@
     "subheading": "Last Saturday of each month · May through August",
     "rainNote": "Rain date: the following Sunday, or the next weekend. Cancellations will be sent via email — join the mailing list to stay informed.",
     "kidsLabel": "Kids",
-    "adultsLabel": "Adults",
+    "adultsLabel": "Late Movie",
     "screenings": [
       {
         "date": "May 30, 2026",
@@ -142,7 +142,7 @@
       {
         "icon": "🎬",
         "title": "Double Feature",
-        "text": "Every night is a double feature. First a kids movie, then an adults movie. Before each film we show a short cartoon, and there's a brief intermission between films!"
+        "text": "Every night is a double feature. First a kids movie, then a late movie. Before each film we show a short cartoon, and there's a brief intermission between films!"
       },
       {
         "icon": "📻",
