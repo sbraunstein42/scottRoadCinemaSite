@@ -1,0 +1,61 @@
+Scott Road Cinema
+All movies shown in the side yard, at 54 Scott Road, Cumberland, RI 02864.
+
+Movies will be shown on the last Saturday of the month, starting May 30th. In case of rain, we will do it on Sunday or even the following weekend.
+
+Shorts
+Tumbleweeds https://www.youtube.com/watch?v=WaaNoEem86U’
+Scavengers https://www.youtube.com/watch?v=1TRzemJbUsw
+Ducks https://www.youtube.com/watch?v=L8vZbIeAdAw
+
+Music Videos:
+https://www.youtube.com/watch?v=r9iYyqr6ibs&list=RDr9iYyqr6ibs&start_radio=1
+https://www.youtube.com/watch?v=9RHFFeQ2tu4&list=RD9RHFFeQ2tu4&start_radio=1
+
+Movies (Put a runtime, approximate start/end time, and an IMDB link and a Common sense media link to each of these):
+
+KIDS
+The Iron Giant
+My Neighbor Totoro (English Dubbing)
+The Secret of Nimh
+Wallace + Gromit
+
+ADULTS
+The Hudsucker Proxy
+It Follows
+A Star Is Born
+Waitress
+
+2026 theme:
+Neighborhood Heroes
+
+Rules (Each with a little pixelated icon):
+Every night is a double feature. First kids, then adults. Before each movie is a short cartoon. Between movies is a short intermission!
+Just like at the drive-in, we will transmit the audio for the movie over stereo FM radio. Bring your own a boom box or walkman or whatever, and listen along!
+If you or your kids are making trouble or hurting people/animals, you’ll be asked to leave. End of story.
+Bring a flashlight for when it gets dark, but don’t shine it during the movie.
+We have a swingset and a chicken coop. Kids can play when they need to!
+No pets allowed. We have cats and chickens that will get upset.
+Movies begin at dusk. Come earlier to get a good spot!
+Bring your own blanket, picnic and drinks. Some alcohol is OK! But don’t push it.
+If you have to use the bathroom, you can go into the woods behind the house. Toilet paper and shovels will be provided.
+BBQing allowed!
+
+
+To attend, click the mailing list, and fill out the google form to RSVP.
+
+
+
+
+The website's structure should be quite cute. It should have pixelated text for headers, to match the logo in images/logo.png.
+The buttons to access different sections of the website should be: Home, Schedule, How does it work?, and RSVP.
+When you click on the buttons to access different sections, the site should pan to the right or left, up or down to show the new content.
+The content should be good for mobile. The home section should basically be just the logo image, with some little exciting text blurbs like they put on the minecraft menu screen, diagonal to the title. Our blurbs could be from this list:
+
+Free!
+Simon’s wife said it was too much trouble, but he did it anyway! (She’s a great lady!)
+Awesome unusual movies!
+Bring an FM radio to hear the audio!
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf647awQGQzskmoa93tkNldU9i03WNkJfwQ35kaxEg3LK8C3g/viewform?embedded=true" width="640" height="1466" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

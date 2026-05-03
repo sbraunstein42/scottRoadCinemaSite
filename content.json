@@ -1,0 +1,215 @@
+{
+  "site": {
+    "title": "Scott Road Cinema",
+    "logoAlt": "Scott Road Cinema",
+    "theme": "2026 Theme: Neighborhood Heroes",
+    "address": "54 Scott Road, Cumberland, RI 02864",
+    "mapsUrl": "https://maps.google.com/?q=54+Scott+Road,+Cumberland,+RI+02864",
+    "footer": "Scott Road Cinema · Cumberland, RI"
+  },
+  "nav": {
+    "home": "Home",
+    "schedule": "Schedule",
+    "howto": "How does it work?",
+    "rsvp": "RSVP"
+  },
+  "home": {
+    "tagline": "Free outdoor movies in the front yard!",
+    "blurbs": [
+      "Free!",
+      "Simon's wife said it was too much trouble, but he did it anyway! (She's a great lady!)",
+      "Awesome unusual movies!",
+      "Bring an FM radio to hear the audio!"
+    ]
+  },
+  "schedule": {
+    "heading": "2026 Schedule",
+    "subheading": "Last Saturday of each month · May through August",
+    "rainNote": "Rain date: the following Sunday, or the next weekend. Cancellations will be sent via email — join the mailing list to stay informed.",
+    "kidsLabel": "Kids",
+    "adultsLabel": "Adults",
+    "screenings": [
+      {
+        "date": "May 30, 2026",
+        "dusk": "~8:30 PM",
+        "kids": {
+          "title": "The Iron Giant",
+          "year": 1999,
+          "rating": "PG",
+          "runtime": "86 min",
+          "startTime": "~8:40 PM",
+          "endTime": "~10:06 PM",
+          "imdb": "https://www.imdb.com/title/tt0129167/",
+          "csm": "https://www.commonsensemedia.org/movie-reviews/the-iron-giant",
+          "description": "A lonely boy befriends a gentle giant robot from outer space and must protect him from a paranoid government agent."
+        },
+        "adults": {
+          "title": "The Hudsucker Proxy",
+          "year": 1994,
+          "rating": "PG",
+          "runtime": "111 min",
+          "startTime": "~10:31 PM",
+          "endTime": "~12:22 AM",
+          "imdb": "https://www.imdb.com/title/tt0110074/",
+          "csm": "https://www.commonsensemedia.org/movie-reviews/the-hudsucker-proxy",
+          "description": "A naive business-school graduate is installed as president of a manufacturing company as part of a Wall Street stock scam. A Coen Brothers gem."
+        }
+      },
+      {
+        "date": "June 27, 2026",
+        "dusk": "~8:45 PM",
+        "kids": {
+          "title": "My Neighbor Totoro",
+          "year": 1988,
+          "rating": "G",
+          "runtime": "86 min",
+          "startTime": "~8:55 PM",
+          "endTime": "~10:21 PM",
+          "imdb": "https://www.imdb.com/title/tt0096283/",
+          "csm": "https://www.commonsensemedia.org/movie-reviews/my-neighbor-totoro",
+          "description": "Two sisters move to the countryside and discover the forest is filled with magnificent, friendly spirits. Shown in English dub."
+        },
+        "adults": {
+          "title": "It Follows",
+          "year": 2014,
+          "rating": "R",
+          "runtime": "100 min",
+          "startTime": "~10:46 PM",
+          "endTime": "~12:26 AM",
+          "imdb": "https://www.imdb.com/title/tt3235888/",
+          "csm": "https://www.commonsensemedia.org/movie-reviews/it-follows",
+          "description": "A slow, relentless supernatural force pursues a young woman through suburban Detroit. Best watched outdoors, in the dark."
+        }
+      },
+      {
+        "date": "July 25, 2026",
+        "dusk": "~8:30 PM",
+        "kids": {
+          "title": "The Secret of NIMH",
+          "year": 1982,
+          "rating": "G",
+          "runtime": "82 min",
+          "startTime": "~8:40 PM",
+          "endTime": "~10:02 PM",
+          "imdb": "https://www.imdb.com/title/tt0084237/",
+          "csm": "https://www.commonsensemedia.org/movie-reviews/the-secret-of-nimh",
+          "description": "A widowed field mouse must relocate her family and turns to a mysterious colony of superintelligent rats for help."
+        },
+        "adults": {
+          "title": "A Star Is Born",
+          "year": 2018,
+          "rating": "R",
+          "runtime": "135 min",
+          "startTime": "~10:27 PM",
+          "endTime": "~12:42 AM",
+          "imdb": "https://www.imdb.com/title/tt1517451/",
+          "csm": "https://www.commonsensemedia.org/movie-reviews/a-star-is-born-2018",
+          "description": "A seasoned musician helps a young singer find fame, as his own troubled career begins its final decline."
+        }
+      },
+      {
+        "date": "August 29, 2026",
+        "dusk": "~8:00 PM",
+        "kids": {
+          "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+          "year": 2005,
+          "rating": "G",
+          "runtime": "85 min",
+          "startTime": "~8:10 PM",
+          "endTime": "~9:35 PM",
+          "imdb": "https://www.imdb.com/title/tt0312004/",
+          "csm": "https://www.commonsensemedia.org/movie-reviews/wallace-gromit-the-curse-of-the-were-rabbit",
+          "description": "Wallace and Gromit investigate a mysterious beast terrorizing the community's prize-vegetable competition."
+        },
+        "adults": {
+          "title": "Waitress",
+          "year": 2007,
+          "rating": "PG-13",
+          "runtime": "107 min",
+          "startTime": "~10:00 PM",
+          "endTime": "~11:47 PM",
+          "imdb": "https://www.imdb.com/title/tt0464907/",
+          "csm": "https://www.commonsensemedia.org/movie-reviews/waitress",
+          "description": "A gifted pie-making waitress trapped in a loveless marriage dares to dream of a sweeter life."
+        }
+      }
+    ]
+  },
+  "howto": {
+    "heading": "How Does It Work?",
+    "intro": "Everything you need to know before you show up:",
+    "rules": [
+      {
+        "icon": "🎬",
+        "title": "Double Feature",
+        "text": "Every night is a double feature. First a kids movie, then an adults movie. Before each film we show a short cartoon, and there's a brief intermission between films!"
+      },
+      {
+        "icon": "📻",
+        "title": "FM Radio Audio",
+        "text": "Just like at the drive-in, audio is transmitted over stereo FM radio. Bring a boom box, walkman, or any FM radio. The frequency will be announced when we start the film!"
+      },
+      {
+        "icon": "⚠️",
+        "title": "Be Cool",
+        "text": "If you or your kids are making trouble or hurting people or animals, you'll be asked to leave. End of story."
+      },
+      {
+        "icon": "🔦",
+        "title": "Flashlights Welcome",
+        "text": "Bring a flashlight for when it gets dark, but please don't shine it during the movie."
+      },
+      {
+        "icon": "🐓",
+        "title": "Kids Play Area",
+        "text": "We have a swingset and a chicken coop on the property! Kids can play when they need a break from the screen."
+      },
+      {
+        "icon": "🚫",
+        "title": "No Pets",
+        "text": "No pets allowed. We have cats and chickens on-site that will get upset. Please leave your furry friends at home."
+      },
+      {
+        "icon": "🌆",
+        "title": "Arrive Early",
+        "text": "Movies begin at dusk. Come earlier to get a good spot on the lawn!"
+      },
+      {
+        "icon": "🧺",
+        "title": "Bring Your Own Everything",
+        "text": "Bring your own blanket, picnic, and drinks. Some alcohol is OK! But don't push it."
+      },
+      {
+        "icon": "🌲",
+        "title": "Facilities",
+        "text": "If you have to use the bathroom, head to the woods behind the house. Toilet paper and shovels will be provided."
+      },
+      {
+        "icon": "🪑",
+        "title": "Chairs Welcome",
+        "text": "Lawn chairs are welcome! Please set them up in the back half of the seating area so blanket-sitters up front can see."
+      },
+      {
+        "icon": "🚗",
+        "title": "Parking",
+        "text": "Please park on the street. Do not block the driveway."
+      },
+      {
+        "icon": "🚭",
+        "title": "No Smoking",
+        "text": "No smoking anywhere on the property, please."
+      }
+    ]
+  },
+  "rsvp": {
+    "heading": "Come Join Us!",
+    "intro": "Scott Road Cinema is free and open to the whole neighborhood. RSVP is required so we know how many to expect.",
+    "addressLabel": "Where:",
+    "address": "54 Scott Road, Cumberland, RI 02864",
+    "rsvpLabel": "RSVP is required to attend",
+    "rsvpCta": "RSVP Now",
+    "rsvpUrl": "https://docs.google.com/forms/d/e/1FAIpQLSf647awQGQzskmoa93tkNldU9i03WNkJfwQ35kaxEg3LK8C3g/viewform?usp=sharing&ouid=108989390755482745590",
+    "note": "RSVPing helps us know how many folks to expect, but it's not required. All neighbors are welcome!",
+    "footer": "See you under the stars!"
+  }
+}

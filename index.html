@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Scott Road Cinema</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div id="stars" aria-hidden="true"></div>
+
+  <nav id="navbar" role="navigation" aria-label="Main navigation">
+    <div class="nav-strip top" aria-hidden="true"></div>
+    <div class="nav-inner">
+      <button class="nav-btn active" data-nav="home"></button>
+      <button class="nav-btn" data-nav="schedule"></button>
+      <button class="nav-btn" data-nav="howto"></button>
+      <button class="nav-btn" data-nav="rsvp"></button>
+    </div>
+    <div class="nav-strip bottom" aria-hidden="true"></div>
+  </nav>
+
+  <div id="viewport">
+    <div id="panner">
+      <section class="panel" id="panel-home"   aria-label="Home"></section>
+      <section class="panel" id="panel-schedule" aria-label="Schedule"></section>
+      <section class="panel" id="panel-howto"  aria-label="How does it work"></section>
+      <section class="panel" id="panel-rsvp"   aria-label="RSVP"></section>
+    </div>
+  </div>
+
+  <div id="scroll-hint" aria-hidden="true"><div class="scroll-chevron"></div></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
