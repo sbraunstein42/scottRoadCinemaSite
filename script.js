@@ -51,9 +51,10 @@ function navigateTo(id) {
 }
 
 function setupNav(content) {
+  const useShortNav = window.innerWidth <= 640;
   document.querySelectorAll('.nav-btn').forEach(btn => {
     const id = btn.dataset.nav;
-    btn.textContent = content.nav[id] || id;
+    btn.textContent = (useShortNav && content.nav_mobile?.[id]) || content.nav[id] || id;
     btn.addEventListener('click', () => navigateTo(id));
   });
 
@@ -81,6 +82,7 @@ function setupNav(content) {
   }, { passive: true });
 
   document.addEventListener('touchend', e => {
+    if (window.innerWidth <= 640) return;
     const dx = e.changedTouches[0].clientX - touchX;
     const dy = e.changedTouches[0].clientY - touchY;
     if (Math.abs(dx) < 40 && Math.abs(dy) < 40) return;

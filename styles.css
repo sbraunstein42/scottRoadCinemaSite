@@ -356,21 +356,12 @@ body::after {
   grid-template-columns: 1fr 1fr;
 }
 
-@media (max-width: 680px) {
-  .movies-row { grid-template-columns: 1fr; }
-}
-
 .movie-card {
   padding: 28px;
   border-right: 1px solid var(--border);
 }
 
 .movie-card:last-child { border-right: none; }
-
-@media (max-width: 680px) {
-  .movie-card { border-right: none; border-bottom: 1px solid var(--border); }
-  .movie-card:last-child { border-bottom: none; }
-}
 
 .movie-card-header {
   display: flex;
@@ -661,3 +652,51 @@ body::after {
 .panel::-webkit-scrollbar { width: 5px; }
 .panel::-webkit-scrollbar-track { background: transparent; }
 .panel::-webkit-scrollbar-thumb { background: #222; border-radius: 2px; }
+
+/* =============================
+   MOBILE PORTRAIT  (≤ 640px)
+   Swipe nav disabled in script.js at this breakpoint.
+   ============================= */
+@media (max-width: 640px) {
+
+  /* Nav: fit all four buttons without horizontal scroll */
+  .nav-inner { gap: 2px; padding: 0 6px; }
+  .nav-btn   { font-size: 9px; padding: 6px 9px; }
+
+  /* Schedule: tight padding, keep 2-column layout */
+  #panel-schedule { padding: 24px 8px 64px; }
+
+  .section-heading { font-size: 16px; }
+  .section-sub     { font-size: 13px; }
+  .section-note    { font-size: 11px; margin-bottom: 24px; }
+
+  .screenings-list { gap: 20px; }
+
+  .screening-date-bar { padding: 10px 12px; }
+  .screening-date     { font-size: 9px; }
+  .screening-dusk     { font-size: 11px; }
+
+  .movie-card         { padding: 12px 10px; }
+  .movie-card-header  { margin-bottom: 8px; }
+
+  .audience-tag       { font-size: 7px;  padding: 3px 5px; }
+  .movie-rating-badge { font-size: 10px; padding: 3px 7px; }
+  .movie-title        { font-size: 9px;  margin-bottom: 8px; }
+  .movie-meta         { font-size: 11px; margin-bottom: 6px; }
+  .movie-times        { font-size: 7px;  padding: 4px 8px; margin-bottom: 10px; }
+  .movie-desc         { font-size: 11px; line-height: 1.5; margin-bottom: 10px; }
+  .movie-links        { gap: 6px; }
+  .movie-link         { font-size: 10px; padding: 5px 8px; }
+
+  /* How-to: tighter cards */
+  #panel-howto { padding: 24px 16px 64px; }
+  .rule-card   { padding: 14px 16px; gap: 14px; }
+  .rule-icon   { font-size: 30px; }
+  .rule-title  { font-size: 10px; }
+  .rule-text   { font-size: 14px; }
+
+  /* RSVP */
+  #panel-rsvp { padding: 24px 16px 64px; }
+  .rsvp-intro { font-size: 16px; }
+  .btn        { font-size: 14px; padding: 16px 28px; }
+}

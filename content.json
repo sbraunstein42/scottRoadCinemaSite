@@ -13,6 +13,12 @@
     "howto": "How does it work?",
     "rsvp": "RSVP"
   },
+  "nav_mobile": {
+    "home": "Home",
+    "schedule": "Schedule",
+    "howto": "How To",
+    "rsvp": "RSVP"
+  },
   "home": {
     "tagline": "Free outdoor movies in the front yard!",
     "blurbs": [

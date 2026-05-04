@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(npx --yes serve . -p 4200)"
+      "Bash(npx --yes serve . -p 4200)",
+      "Skill(update-config)"
     ]
   }
 }
